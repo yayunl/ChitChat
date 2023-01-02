@@ -1,0 +1,281 @@
+INFO 2023/01/02 15:01:50 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:01:50 utils.go:78: Cookie is  3f542336-be34-41f8-40fd-d0f8434e1c1f
+INFO 2023/01/02 15:01:50 utils.go:78: The validated session is %+v {7 3f542336-be34-41f8-40fd-d0f8434e1c1f aaron2@gmail.com 3 2023-01-02 14:59:40.58896 +0000 +0000}
+INFO 2023/01/02 15:01:50 utils.go:78: Login user is %+v {3 38135e7d-204a-43d6-67ac-8f555a8b6d10 aaron2 aaron2@gmail.com  2023-01-02 14:59:40.584692 +0000 +0000}
+INFO 2023/01/02 15:01:50 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:01:50 utils.go:78: Cookie is  3f542336-be34-41f8-40fd-d0f8434e1c1f
+INFO 2023/01/02 15:01:50 utils.go:78: The validated session is %+v {7 3f542336-be34-41f8-40fd-d0f8434e1c1f aaron2@gmail.com 3 2023-01-02 14:59:40.58896 +0000 +0000}
+INFO 2023/01/02 15:01:50 utils.go:78: Login user is %+v {3 38135e7d-204a-43d6-67ac-8f555a8b6d10 aaron2 aaron2@gmail.com  2023-01-02 14:59:40.584692 +0000 +0000}
+INFO 2023/01/02 15:01:52 utils.go:78: Thread uuid is  3b275a5d-e7f1-4027-471c-e7b9963eb007
+INFO 2023/01/02 15:01:52 utils.go:78: Cookie is  3f542336-be34-41f8-40fd-d0f8434e1c1f
+INFO 2023/01/02 15:01:52 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:01:52 utils.go:78: Cookie is  3f542336-be34-41f8-40fd-d0f8434e1c1f
+INFO 2023/01/02 15:01:52 utils.go:78: The validated session is %+v {7 3f542336-be34-41f8-40fd-d0f8434e1c1f aaron2@gmail.com 3 2023-01-02 14:59:40.58896 +0000 +0000}
+INFO 2023/01/02 15:01:52 utils.go:78: Login user is %+v {3 38135e7d-204a-43d6-67ac-8f555a8b6d10 aaron2 aaron2@gmail.com  2023-01-02 14:59:40.584692 +0000 +0000}
+INFO 2023/01/02 15:02:40 utils.go:78: Thread uuid is  3b275a5d-e7f1-4027-471c-e7b9963eb007
+INFO 2023/01/02 15:02:40 utils.go:78: Cookie is  3f542336-be34-41f8-40fd-d0f8434e1c1f
+INFO 2023/01/02 15:02:40 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:02:40 utils.go:78: Cookie is  3f542336-be34-41f8-40fd-d0f8434e1c1f
+INFO 2023/01/02 15:02:40 utils.go:78: The validated session is %+v {7 3f542336-be34-41f8-40fd-d0f8434e1c1f aaron2@gmail.com 3 2023-01-02 14:59:40.58896 +0000 +0000}
+INFO 2023/01/02 15:02:40 utils.go:78: Login user is %+v {3 38135e7d-204a-43d6-67ac-8f555a8b6d10 aaron2 aaron2@gmail.com  2023-01-02 14:59:40.584692 +0000 +0000}
+INFO 2023/01/02 15:02:46 utils.go:78: Thread uuid is  3b275a5d-e7f1-4027-471c-e7b9963eb007
+INFO 2023/01/02 15:02:46 utils.go:78: Cookie is  3f542336-be34-41f8-40fd-d0f8434e1c1f
+INFO 2023/01/02 15:02:47 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:02:47 utils.go:78: Cookie is  3f542336-be34-41f8-40fd-d0f8434e1c1f
+INFO 2023/01/02 15:02:47 utils.go:78: The validated session is %+v {7 3f542336-be34-41f8-40fd-d0f8434e1c1f aaron2@gmail.com 3 2023-01-02 14:59:40.58896 +0000 +0000}
+INFO 2023/01/02 15:02:47 utils.go:78: Login user is %+v {3 38135e7d-204a-43d6-67ac-8f555a8b6d10 aaron2 aaron2@gmail.com  2023-01-02 14:59:40.584692 +0000 +0000}
+INFO 2023/01/02 15:03:02 utils.go:78: Cookie is  3f542336-be34-41f8-40fd-d0f8434e1c1f
+INFO 2023/01/02 15:03:02 utils.go:78: Thread uuid is  3b275a5d-e7f1-4027-471c-e7b9963eb007
+INFO 2023/01/02 15:03:02 utils.go:78: Cookie is  3f542336-be34-41f8-40fd-d0f8434e1c1f
+INFO 2023/01/02 15:03:02 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:03:02 utils.go:78: Cookie is  3f542336-be34-41f8-40fd-d0f8434e1c1f
+INFO 2023/01/02 15:03:02 utils.go:78: The validated session is %+v {7 3f542336-be34-41f8-40fd-d0f8434e1c1f aaron2@gmail.com 3 2023-01-02 14:59:40.58896 +0000 +0000}
+INFO 2023/01/02 15:03:02 utils.go:78: Login user is %+v {3 38135e7d-204a-43d6-67ac-8f555a8b6d10 aaron2 aaron2@gmail.com  2023-01-02 14:59:40.584692 +0000 +0000}
+WARNING 2023/01/02 15:03:07 utils.go:88: <nil> Failed to get the cookie
+INFO 2023/01/02 15:03:07 utils.go:78: Logged out.
+INFO 2023/01/02 15:03:07 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:03:07 utils.go:78: Cookie is  3f542336-be34-41f8-40fd-d0f8434e1c1f
+ERROR 2023/01/02 15:03:07 utils.go:83: invalid session as it does not exist in the db
+INFO 2023/01/02 15:03:07 utils.go:78: The validated session is %+v {0 3f542336-be34-41f8-40fd-d0f8434e1c1f  0 0001-01-01 00:00:00 +0000 UTC}
+WARNING 2023/01/02 15:03:07 utils.go:88: invalid session as it does not exist in the db Invalid session
+INFO 2023/01/02 15:03:15 utils.go:78: Creating session for the user {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com 5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8 2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:03:15 utils.go:78: Cookie is created
+INFO 2023/01/02 15:03:15 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:03:15 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:03:15 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:03:15 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:03:15 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:03:15 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:03:15 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:03:15 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:03:17 utils.go:78: Thread uuid is  3b275a5d-e7f1-4027-471c-e7b9963eb007
+INFO 2023/01/02 15:03:17 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:03:17 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:03:17 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:03:17 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:03:17 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:03:23 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:03:23 utils.go:78: Thread uuid is  3b275a5d-e7f1-4027-471c-e7b9963eb007
+INFO 2023/01/02 15:03:23 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:03:23 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:03:23 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:03:23 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:03:23 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:04:29 utils.go:78: Thread uuid is  3b275a5d-e7f1-4027-471c-e7b9963eb007
+INFO 2023/01/02 15:04:29 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:04:30 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:04:30 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:04:30 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:04:30 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:04:44 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:04:44 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:04:44 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:04:44 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:04:44 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:04:44 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:04:44 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:04:44 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:04:45 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:04:45 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:04:45 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:04:45 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:04:45 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:04:45 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:04:54 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:04:54 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:04:54 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:04:54 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:04:54 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:04:54 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:04:54 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:04:54 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:04:54 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:06:14 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:06:14 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:06:14 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:06:14 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:06:14 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:06:14 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:06:14 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:06:14 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:06:17 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:06:17 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:06:17 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:06:17 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:06:17 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:06:17 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:06:17 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:06:17 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:09:14 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:09:14 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:09:14 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:09:14 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:09:14 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:09:14 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:09:14 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:09:14 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:09:17 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:09:17 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:09:17 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:09:17 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:09:17 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:09:17 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:09:20 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:09:20 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:09:20 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:09:20 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:09:22 utils.go:78: Thread uuid is  3b275a5d-e7f1-4027-471c-e7b9963eb007
+INFO 2023/01/02 15:09:22 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:09:22 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:09:22 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:09:22 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:09:22 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:09:46 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:09:46 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:09:46 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:09:46 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:09:47 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:09:47 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:09:47 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:09:47 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:09:49 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:09:49 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:09:49 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:09:49 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:09:49 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:09:49 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:09:49 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:09:49 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:09:59 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:09:59 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:10:00 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:10:00 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:10:00 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:10:00 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:10:05 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:10:05 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:10:05 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:10:05 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:10:05 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:10:05 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:10:05 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:10:20 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:10:20 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:10:20 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:10:20 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:10:20 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:10:20 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:10:20 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:10:20 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:10:22 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:10:22 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:10:22 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:10:22 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:10:22 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:10:22 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:26:53 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:26:53 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:26:54 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:26:54 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:26:54 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:26:54 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:27:01 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:27:01 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:27:01 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:27:01 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:27:01 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:27:01 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:27:01 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:28:21 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:28:22 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:28:22 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:28:22 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:28:22 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:28:22 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:31:16 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:31:16 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:31:17 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:31:17 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:31:17 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:31:17 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:34:49 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:34:49 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:34:50 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:34:50 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:34:50 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:34:50 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:35:15 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:35:15 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:35:15 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:35:15 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:35:15 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:35:15 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:35:35 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:35:35 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:35:35 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:35:35 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:35:35 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:35:35 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:35:59 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:35:59 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:35:59 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:35:59 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:35:59 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:35:59 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:37:37 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:37:37 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:37:38 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:37:38 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:37:38 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:37:38 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:38:21 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:38:21 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:38:22 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:38:22 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:38:22 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:38:22 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:38:59 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:39:00 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:39:00 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:39:00 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:39:00 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:39:00 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:39:30 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:39:30 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:39:31 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:39:31 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:39:31 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:39:31 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:41:30 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:41:30 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:41:31 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:41:31 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:41:31 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:41:31 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:41:59 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:42:00 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:42:00 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:42:00 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:42:00 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:42:00 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:42:20 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:42:20 utils.go:78: Thread uuid is  a0e78a1f-f488-44e6-5401-6f1f428360e0
+INFO 2023/01/02 15:42:20 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:42:20 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:42:20 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:42:20 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:42:20 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:42:24 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:42:24 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:42:24 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:42:24 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:42:24 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:42:24 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:42:24 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:42:24 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
+INFO 2023/01/02 15:42:26 utils.go:78: Thread uuid is  3b275a5d-e7f1-4027-471c-e7b9963eb007
+INFO 2023/01/02 15:42:26 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:42:26 utils.go:78: Access to chitchat.
+INFO 2023/01/02 15:42:26 utils.go:78: Cookie is  0a9605eb-7830-4db5-75af-dcb9017e505a
+INFO 2023/01/02 15:42:26 utils.go:78: The validated session is %+v {8 0a9605eb-7830-4db5-75af-dcb9017e505a aaron@gmail.com 2 2023-01-02 15:03:15.451169 +0000 +0000}
+INFO 2023/01/02 15:42:26 utils.go:78: Login user is %+v {2 045a9ec8-2bfb-4f03-58cd-bd86ed935034 aaron aaron@gmail.com  2023-01-02 14:57:11.008724 +0000 +0000}
